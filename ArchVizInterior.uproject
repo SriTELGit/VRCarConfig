@@ -20,6 +20,10 @@
 		{
 			"Name": "MoviePipelineMaskRenderPass",
 			"Enabled": true
+		},
+		{
+			"Name": "VariantManager",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "2554716042"
